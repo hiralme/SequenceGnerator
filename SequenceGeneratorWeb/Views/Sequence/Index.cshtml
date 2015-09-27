@@ -1,0 +1,98 @@
+﻿@using SequenceGeneratorWeb.Models
+@model SequenceGeneratorModel
+@{
+    ViewBag.Title = "Sequence Generator";
+}
+
+<div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div>
+                    <h3>Sequence Generator</h3>
+                    
+                    <p>
+                       Enter some <b><u>positive whole</u></b> value below and click on button to see some awesome sequences!!!
+                    </p>                  
+                    
+                    <div class="row">
+                        <div class="col-lg-6">
+                            @using (Html.BeginForm("Index", "Sequence", FormMethod.Post))
+                            {
+                                @Html.HiddenFor(m => m.StartValue);
+                                <div class="row">
+                                    <div class="col-lg-3">
+                                      Enter Value:   
+                                    </div>
+                                    <div class="col-lg-4">
+                                        @Html.EditorFor(m => m.EndValue, new { htmlAttributes = new { @class = "form-control", id = "EndValue" } })
+                                    </div>
+                                    <div class="col-lg-3">
+                                        <button type="submit" class="btn btn-primary" id="submit">Generate Sequence</button>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="form-group">
+                                          
+                                        </div> 
+                                     
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="form-group">
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="text-danger">
+                                        @Html.ValidationMessageFor(m => m.EndValue)
+                                    </div>
+                                    <div class="has-error" id="divError">                                        
+                                    </div>
+                                </div>
+                            </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="divresult">
+    @if (Model.Results != null && Model.Results.Any())
+    {
+        int i = 0;
+        foreach (var result in Model.Results)
+        {
+            Html.RenderPartial("Result", result, new ViewDataDictionary() { { "Index", i } });
+            i++;
+        }
+    }
+</div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $('#submit').click(function ()
+{
+        var endValue = $("#EndValue").val();
+        if ( endValue == '' || endValue < 0) {
+           
+            $("#divError").html("<div class='text-danger'><a class='close' data-dismiss='alert'>×</a><strong>Error!</strong>Enter valid value please!!!</div>");
+            $("#divresult").empty();
+            return false;
+            
+           
+        }
+            
+return true;
+        	
+
+    });
+});
+</script>

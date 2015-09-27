@@ -1,0 +1,340 @@
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\csc.exe
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\vbc.exe
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGeneratorWeb.dll.config
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGeneratorWeb.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGeneratorWeb.pdb
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Antlr3.Runtime.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\EntityFramework.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Newtonsoft.Json.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Owin.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGnerator.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Helpers.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Mvc.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Optimization.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Razor.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\WebGrease.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGnerator.pdb
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Helpers.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Mvc.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Optimization.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Razor.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Antlr3.Runtime.pdb
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Newtonsoft.Json.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\EntityFramework.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.csprojResolveAssemblyReference.cache
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.Content.SequenceGeneratorDetails.resources
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.csproj.GenerateResource.Cache
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.pdb
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\WebActivatorEx.dll
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\AKASHM\Documents\Visual Studio 2015\Projects\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\csc.exe
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\vbc.exe
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGeneratorWeb.dll.config
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGeneratorWeb.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGeneratorWeb.pdb
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Antlr3.Runtime.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\EntityFramework.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Newtonsoft.Json.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Owin.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGnerator.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Helpers.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Mvc.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Optimization.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Razor.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\WebActivatorEx.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\WebGrease.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGnerator.pdb
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Helpers.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Mvc.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Optimization.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Razor.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Newtonsoft.Json.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\EntityFramework.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.csprojResolveAssemblyReference.cache
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.Content.SequenceGeneratorDetails.resources
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.csproj.GenerateResource.Cache
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.dll
+C:\Users\Akash\Downloads\SequenceGnerator\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.pdb
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\csc.exe
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\vbc.exe
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGeneratorWeb.dll.config
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGeneratorWeb.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGeneratorWeb.pdb
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Antlr3.Runtime.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\EntityFramework.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Newtonsoft.Json.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Owin.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGnerator.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Helpers.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Mvc.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Optimization.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Razor.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\WebActivatorEx.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\WebGrease.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGnerator.pdb
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Helpers.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Mvc.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Optimization.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Razor.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Newtonsoft.Json.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\EntityFramework.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.csprojResolveAssemblyReference.cache
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.Content.SequenceGeneratorDetails.resources
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.csproj.GenerateResource.Cache
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.dll
+C:\Users\Akash\Downloads\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.pdb
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\csc.exe
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\vbc.exe
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGeneratorWeb.dll.config
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGeneratorWeb.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGeneratorWeb.pdb
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Antlr3.Runtime.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\EntityFramework.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Newtonsoft.Json.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Owin.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGnerator.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Helpers.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Mvc.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Optimization.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Razor.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\WebActivatorEx.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\WebGrease.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\SequenceGnerator.pdb
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Helpers.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Mvc.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Optimization.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.Razor.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Newtonsoft.Json.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\EntityFramework.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.Content.SequenceGeneratorDetails.resources
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.csproj.GenerateResource.Cache
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.dll
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.pdb
+C:\Users\Akash\Desktop\SequenceGnerator - Copy (2)\SequenceGnerator\SequenceGeneratorWeb\obj\Debug\SequenceGeneratorWeb.csprojResolveAssemblyReference.cache

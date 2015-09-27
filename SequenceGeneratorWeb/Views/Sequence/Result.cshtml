@@ -1,0 +1,26 @@
+﻿@model SequenceGeneratorWeb.Models.SequenceModel
+
+<div>
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+                    <div class="clearfix"></div>
+                    <u><b>@Model.Title</b></u>
+                    <p>
+                        @Html.Raw(Model.Description)
+                    </p>
+                </div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <div class="pre-scrollable">
+                        @foreach (var result in Model.Values)
+                        {
+                            <span class="">@result</span>
+                        }
+                    </div>
+                </div>
+            </div>
+            <hr>
+        </div>
+    </div>
+</div>
